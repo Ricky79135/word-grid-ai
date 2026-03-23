@@ -1,0 +1,12 @@
+langflow
+groq
+requests
+pydantic<2
+langchain-groq
+
+Why these?
+langflow → custom components & pipeline
+groq → Groq Vision API client
+requests → fetch image from URL
+pydantic<2 → compatibility with Langflow components
+langchain-groq → Groq text model integration
